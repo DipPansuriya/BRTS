@@ -1,0 +1,71 @@
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.CHANGE.resources
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.FORGET.resources
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.LOGIN.resources
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.Properties.Resources.resources
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.REGESTRATION.resources
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.csproj.GenerateResource.Cache
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\bin\Debug\BRTS.exe
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\bin\Debug\BRTS.pdb
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.exe
+C:\Users\DIP\Documents\Visual Studio 2008\Projects\BRTS\BRTS\obj\Debug\BRTS.pdb
+E:\BRTS\BRTS\obj\Debug\BRTS.exe
+E:\BRTS\BRTS\obj\Debug\BRTS.pdb
+E:\BRTS\BRTS\bin\Debug\BRTS.exe
+E:\BRTS\BRTS\bin\Debug\BRTS.pdb
+E:\BRTS\BRTS\obj\Debug\ResolveAssemblyReference.cache
+E:\BRTS\BRTS\obj\Debug\BRTS.CHANGE.resources
+E:\BRTS\BRTS\obj\Debug\BRTS.FORGET.resources
+E:\BRTS\BRTS\obj\Debug\BRTS.LOGIN.resources
+E:\BRTS\BRTS\obj\Debug\BRTS.Properties.Resources.resources
+E:\BRTS\BRTS\obj\Debug\BRTS.REGESTRATION.resources
+E:\BRTS\BRTS\obj\Debug\BRTS.csproj.GenerateResource.Cache
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.exe
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.pdb
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\bin\Debug\BRTS.exe
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\bin\Debug\BRTS.pdb
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.CHANGE.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.FORGET.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.LOGIN.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.Properties.Resources.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.REGESTRATION.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\ResGen.read.1.tlog
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\ResGen.write.1.tlog
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.JANMARG.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.SELECTEDSTAND.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.LASTSTAND.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\bin\Debug\BRTS.exe.config
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.RESET.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.PAYMENT.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.DEBIT.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.lable.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.FIRST.resources
+C:\Users\DIP\Documents\Visual Studio 2010\Projects\BRTS\BRTS\obj\Debug\BRTS.LAST.resources
+I:\DIP_F\BRTS\BRTS\bin\Debug\BRTS.exe.config
+I:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.exe
+I:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.pdb
+J:\DIP_F\BRTS\BRTS\bin\Debug\BRTS.exe.config
+J:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.exe
+J:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.pdb
+H:\DIP_F\BRTS\BRTS\bin\Debug\BRTS.exe.config
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.exe
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.pdb
+H:\DIP_F\BRTS\BRTS\bin\Debug\BRTS.exe
+H:\DIP_F\BRTS\BRTS\bin\Debug\BRTS.pdb
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.CHANGE.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.DEBIT.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.FIRST.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.FORGET.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.JANMARG.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.LAST.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.LASTSTAND.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.LOGIN.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.PAYMENT.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.lable.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.Properties.Resources.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.REGESTRATION.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.RESET.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.SELECTEDSTAND.resources
+H:\DIP_F\BRTS\BRTS\obj\Debug\BRTS.csproj.GenerateResource.Cache
+E:\BRTS\BRTS\bin\Debug\BRTS.exe.config

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86B8488A-52CE-4F9F-9793-743D4AFBC530}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BRTS</RootNamespace>
+    <AssemblyName>BRTS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="brtsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>brtsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CHANGE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CHANGE.Designer.cs">
+      <DependentUpon>CHANGE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBIT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBIT.Designer.cs">
+      <DependentUpon>DEBIT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FIRST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FIRST.Designer.cs">
+      <DependentUpon>FIRST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORGET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORGET.Designer.cs">
+      <DependentUpon>FORGET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JANMARG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JANMARG.Designer.cs">
+      <DependentUpon>JANMARG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LAST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LAST.Designer.cs">
+      <DependentUpon>LAST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LASTSTAND.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LASTSTAND.Designer.cs">
+      <DependentUpon>LASTSTAND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAYMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAYMENT.Designer.cs">
+      <DependentUpon>PAYMENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRINT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRINT.Designer.cs">
+      <DependentUpon>PRINT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RESET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESET.Designer.cs">
+      <DependentUpon>RESET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECTEDSTAND.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECTEDSTAND.Designer.cs">
+      <DependentUpon>SELECTEDSTAND.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CHANGE.resx">
+      <DependentUpon>CHANGE.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="debit.resx">
+      <DependentUpon>DEBIT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FIRST.resx">
+      <DependentUpon>FIRST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORGET.resx">
+      <DependentUpon>FORGET.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JANMARG.resx">
+      <DependentUpon>JANMARG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LAST.resx">
+      <DependentUpon>LAST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LASTSTAND.resx">
+      <DependentUpon>LASTSTAND.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAYMENT.resx">
+      <DependentUpon>PAYMENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRINT.resx">
+      <DependentUpon>PRINT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REGESTRATION.resx">
+      <DependentUpon>REGESTRATION.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RESET.resx">
+      <DependentUpon>RESET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECTEDSTAND.resx">
+      <DependentUpon>SELECTEDSTAND.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="brtsDataSet.xsc">
+      <DependentUpon>brtsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="brtsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>brtsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="brtsDataSet.xss">
+      <DependentUpon>brtsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="REGESTRATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGESTRATION.Designer.cs">
+      <DependentUpon>REGESTRATION.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\200px-Janmarg_logo_new.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Janmarg_logo_new.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TH10_BU_JAN_BUS_888670f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\577.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brts-home-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BRTS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BRTS3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transforming-Ahmedabad1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BRTS_Vision1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
